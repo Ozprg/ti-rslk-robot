@@ -1,5 +1,7 @@
 # TI-RSLK Line-Following Robot
 
+[![Robot Demo](https://img.youtube.com/vi/TX3qE9x60do/0.jpg)](https://youtube.com/shorts/TX3qE9x60do)
+
 ## Overview
 
 An autonomous line-following robot built on the **TI-RSLK (Texas Instruments Robotics System Learning Kit)** platform using the **MSP432P401R** microcontroller. The robot follows a black line on a white surface using reflectance sensors and is capable of detecting and navigating around obstacles using bumper sensors.
