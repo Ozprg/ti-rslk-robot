@@ -1,0 +1,14 @@
+#ifndef SYSTEM_STATE_H
+#define SYSTEM_STATE_H
+
+typedef enum {
+    WAIT_FOR_BUTTON,
+    FOLLOW_LINE,
+    COLLISION_REVERSE,
+    COLLISION_FORWARD,
+    COLLISION_TURN,
+    COLLISION_SEARCH,
+    COLLISION_ADJUST
+} RobotState;
+
+#endif
